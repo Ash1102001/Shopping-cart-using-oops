@@ -1,3 +1,5 @@
+# Shopping cart using oops in python.
+
 class fruitCart :
     def __init__(self,name,price):
         self.name = name
